@@ -1,2 +1,2 @@
 <?php echo "test github";?>
-<?php echo "test commit";?>
+<?php echo "test commiter";?>
